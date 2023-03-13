@@ -1,0 +1,37 @@
+{
+  "name": "console-once",
+  "description": "An npm package for calling console.[debug | log | warn | info | error | etc] only once",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhicken/console-once.git"
+  },
+  "keywords": [
+    "console",
+    "once",
+    "log",
+    "info",
+    "debug",
+    "warn",
+    "error",
+    "console.log",
+    "console.info",
+    "console.debug",
+    "console.warn",
+    "console.error"
+  ],
+  "author": "Mark Hicken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markhicken/console-once/issues"
+  },
+  "homepage": "https://github.com/markhicken/console-once#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
