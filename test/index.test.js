@@ -1,4 +1,4 @@
-const consoleOnce = require('./index');
+const consoleOnce = require('../src/index');
 const {debug, info, log, warn, error} = consoleOnce;
 
 function assertTestsByFn(fn) {
