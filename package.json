@@ -2,7 +2,7 @@
   "name": "console-once",
   "description": "An npm package for calling console.[debug | log | warn | info | error | etc] only once",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "build": "parcel build",
     "test": "jest"
